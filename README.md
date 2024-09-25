@@ -19,7 +19,7 @@ Hey, I'm Marco 😎
 --------------------------
 New Grad Software Engineer
 
-Grew up training to be a professional tennis player 🎾, then decided to devote my life to tech/startups/building :). I am a recent cs grad from UCF looking for an early career/new grad software engineering role. 
+Grew up training to be a professional tennis player 🎾, then decided to devote my life to tech/startups/building 😁. I am a recent cs grad from UCF looking for an early career/new grad software engineering role. 
 Skilled in: Full-stack development, machine learning, and solving hard problems!
 
 #### More about me
