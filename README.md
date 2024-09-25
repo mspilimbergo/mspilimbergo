@@ -27,7 +27,7 @@ Skilled in: Full-stack development, machine learning, and solving hard problems!
 *   🌸  Currently working on [Anime Style](http://anime.style). 
 *   🖥️  Some of my recent projects include [Series 7 AI](https://series7-ai.vercel.app), [Property Genius](https://property-genius.vercel.app/), and [D4W3](https://d4w3.vercel.app/).
 *   🎯  Technical skills/frameworks: Python, Vertex AI, AWS, React, Node, Javascript, C, Java. 
-*   🧠  Currently thinking about building AGI, building efficient decentralized coordination systems, and entropy. 
+*   🧠  Currently thinking about building AGI, building efficient decentralized coordination systems, and information theory. 
 *   🤝  Please say hello!
 
 #### Fun facts
