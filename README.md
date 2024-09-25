@@ -19,14 +19,13 @@ Hey, I'm Marco 😎
 --------------------------
 New Grad Software Engineer
 
-Grew up training to be a professional tennis player 🎾, then decided to devote my life to tech/startups/building 😁. I am a recent cs grad from UCF looking for an early career/new grad software engineering role. 
-Skilled in: Full-stack development, machine learning, and solving hard problems!
+Grew up training to be a professional tennis player 🎾, then decided to devote my life to tech/startups/building 😁. I am a recent cs grad from UCF looking for early career/new grad software engineering roles. 
 
 #### More about me
 *   🌍  Originally from Venezuela 🇻🇪, now based in the US 🇺🇸.
 *   🌸  Currently working on [Anime Style](http://anime.style). 
 *   🖥️  Some of my recent projects include [Series 7 AI](https://series7-ai.vercel.app), [Property Genius](https://property-genius.vercel.app/), and [D4W3](https://d4w3.vercel.app/).
-*   🎯  Technical skills/frameworks: Python, Vertex AI, AWS, React, Node, Javascript, C, Java. 
+*   🎯  Technical skills/frameworks: Python, Full-stack Development, Vertex AI, AWS, React, Node, Javascript, C, Java. 
 *   🧠  Currently thinking about building AGI, building efficient decentralized coordination systems, and information theory. 
 *   🤝  Please say hello!
 
