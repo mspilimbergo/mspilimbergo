@@ -31,6 +31,6 @@ Skilled in: Full-stack development, machine learning, and solving hard problems!
 *   🤝  Please say hello!
 
 #### Fun facts
+*   🚴  Rode a bicycle from St. Augustine FL -> LA (3200 miles, 41 days). Here's our short [film](https://www.youtube.com/watch?v=HmiRs2TBF4w).
 *   🤝  Core values: integrity, honesty, growth, compassion.
 *   🧘  Have meditated over 500 hours (Vipassana). 
-*   🚴  Rode a bicycle from St. Augustine FL -> LA (3200 miles, 41 days). Here's our short [film](https://www.youtube.com/watch?v=HmiRs2TBF4w).
